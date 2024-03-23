@@ -155,7 +155,6 @@ a {
 }
 
 .section__description {
-    padding-top: -5px;
     color: var(--color-secondary);
     text-align: center;
     line-height: var(--line-height-lg);
