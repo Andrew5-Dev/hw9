@@ -199,14 +199,15 @@ a {
 .video {
     background-color: var(--color-light);
     padding-bottom: 95px;
-    margin-top: 10px;
-    margin-left: 16px;
+
 }
 
 .video__iframe {
     border: 0;
     height: 600px;
     width: 100%;
+    margin-top: 10px;
+    margin-left: 6px;
 }
 
 .footer {
