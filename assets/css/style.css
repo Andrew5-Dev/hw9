@@ -91,6 +91,10 @@ a {
     scale: 1.1;
 }
 
+.navbar__link--active {
+    color: #34547a;
+}
+
 .content {
     max-width: var(--container-sm);
     display: flex;
